@@ -278,11 +278,10 @@ section {
     header{
         padding: 12px 20px;
     }
-     .navigation a{
+       .navigation a{
         padding-left: 10px;
     }
-
-.title{
+    .title{
         font-size: 1.8em;
 
     }
